@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://teobject.github.io/snippets-g40rq6/sitemap.xml
